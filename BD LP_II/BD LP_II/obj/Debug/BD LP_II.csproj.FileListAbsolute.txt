@@ -1,0 +1,10 @@
+D:\LP II\BD LP_II\BD LP_II\bin\Debug\BD LP_II.exe.config
+D:\LP II\BD LP_II\BD LP_II\bin\Debug\BD LP_II.exe
+D:\LP II\BD LP_II\BD LP_II\bin\Debug\BD LP_II.pdb
+D:\LP II\BD LP_II\BD LP_II\obj\Debug\BD LP_II.csproj.AssemblyReference.cache
+D:\LP II\BD LP_II\BD LP_II\obj\Debug\BD_LP_II.Properties.Resources.resources
+D:\LP II\BD LP_II\BD LP_II\obj\Debug\BD LP_II.csproj.GenerateResource.cache
+D:\LP II\BD LP_II\BD LP_II\obj\Debug\BD LP_II.csproj.CoreCompileInputs.cache
+D:\LP II\BD LP_II\BD LP_II\obj\Debug\BD LP_II.exe
+D:\LP II\BD LP_II\BD LP_II\obj\Debug\BD LP_II.pdb
+D:\LP II\BD LP_II\BD LP_II\obj\Debug\BD_LP_II.Form1.resources
